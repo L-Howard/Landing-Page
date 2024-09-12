@@ -119,3 +119,18 @@ a:active {
 em {
     font-size: 36px;
 }
+
+.blue-container {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-around;
+    color: #F9FAF8;
+    align-items: center;
+    padding: 50px;
+    margin: 100px 250px 100px 250px;
+    border-radius: 20px;
+}
+
+.cont-right {
+    border: #F9FAF8
+}
