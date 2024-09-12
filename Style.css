@@ -100,3 +100,22 @@ a:active {
     text-align: center;
     padding: 25px;
 }
+
+.section-2 {
+    display: flex;
+    flex-direction: column;
+    padding: 50px 300px 50px 300px;
+    gap: 30px;
+    background-color: #E5E7EB;
+}
+
+.member {
+    align-self: flex-end;
+    font-size: 32px;
+    color:#1F2937;
+    font-weight: 900;
+}
+
+em {
+    font-size: 36px;
+}
